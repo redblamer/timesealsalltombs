@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+ 
+
+<channel>
+
+<title>Time seals all tombs</title>
+
+<link>http://tinyurl.com/timetomb</link>
+
+<language>en-us</language>
+
+<copyright>&#x2117; &amp; &#xA9; 2009 Shane Andrewartha </copyright>
+
+<itunes:subtitle>a compilation of images and verse</itunes:subtitle>
+
+<itunes:author>Shane Andrewartha</itunes:author>
+
+<itunes:summary>a fiendishly dark artistic endeavour from suburban melbourne</itunes:summary>
+
+<description>a fiendishly dark artistic endeavour from suburban melbourne, taboos to enliven and ignite your creative mind</description>
+
+<itunes:owner>
+
+<itunes:name>Shane Andrewartha</itunes:name>
+
+<itunes:email>shane.andrewartha@gmail.com</itunes:email>
+
+</itunes:owner>
+
+<itunes:image href="https://redblamer.github.io/Timesealsalltombs2992x2992.png" />
+
+<itunes:category text="Arts">
+<itunes:category text="Literature" />
+</itunes:category>
+
+<itunes:category text="Arts">
+<itunes:category text="Visual Arts" />
+</itunes:category>
+
+<itunes:category text="Society &amp; Culture">
+<itunes:category text="Personal Journals" />
+</itunes:category>
+
+<itunes:explicit>no</itunes:explicit> 
+
+
+<item>
+
+<title>Time seals all tombs</title>
+
+<itunes:author>Shane Andrewartha</itunes:author>
+
+<itunes:subtitle>cover artwork</itunes:subtitle>
+
+<enclosure url="http://sites.google.com/site/timesealsalltombs/Timesealsalltombs1sec.mp3" length="137416" type="audio/mpeg" />
+
+<guid>http://sites.google.com/site/timesealsalltombs/Timesealsalltombs1sec.mp3</guid>
+
+<pubDate>Tue, 1 Sep 2009 06:06:06 GMT</pubDate>
+
+<itunes:duration>0:01</itunes:duration>
+
+</item>
+
+ 
+
+<item>
+
+<title>Time seals all tombs (full)</title>
+
+<itunes:author>Shane Andrewartha</itunes:author>
+
+<itunes:subtitle>PDF file - all 32 pages</itunes:subtitle>
+
+<itunes:summary>PDF file - all 32 pages</itunes:summary>
+
+<enclosure url="http://sites.google.com/site/timesealsalltombs/Timesealsalltombs_full_19x19.pdf" length="396138" type="application/pdf" />
+
+<guid>http://sites.google.com/site/timesealsalltombs/Timesealsalltombs_full_19x19.pdf</guid>
+
+<pubDate>Tue, 1 Sep 2009 00:00:00 GMT</pubDate>
+
+<itunes:duration>0:00</itunes:duration>
+
+</item>
+
+ 
+
+</channel>
+
+</rss>
