@@ -1,5 +1,5 @@
 # timesealsalltombs
-Apple iTunes podcast
+Apple iTunes podcast - backup only
 
 1. Timesealsalltombs.PNG cover image
 2. rss_feed.xml points to files that were hosted on Google Site that has since changed URL
